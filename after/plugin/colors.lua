@@ -26,7 +26,7 @@ require('catppuccin').setup({
             fg = "#C999BB"
         },
         Function = {
-            fg = "#DDCCAD"
+            fg = "#0099AA"
         },
     },
     -- hello
