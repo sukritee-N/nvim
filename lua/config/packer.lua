@@ -10,6 +10,7 @@ return require('packer').startup(function(use)
   }
 
   use { "catppuccin/nvim", as = "catppuccin" }
+  use { "lukas-reineke/indent-blankline.nvim", }
 
   use({
       "folke/trouble.nvim",

@@ -44,3 +44,5 @@ vim.keymap.set("n", "<C-k>", ":TmuxNavigateUp<CR>")
 vim.keymap.set("n", "<C-l>", ":TmuxNavigateRight<CR>")
 
 vim.keymap.set("n", "<leader>tt", ":terminal<CR>")
+
+vim.keymap.set("n", "<leader>r", "<C-r>");
