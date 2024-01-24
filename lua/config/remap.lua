@@ -1,4 +1,3 @@
-
 vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 
@@ -43,6 +42,7 @@ vim.keymap.set("n", "<C-j>", ":TmuxNavigateDown<CR>")
 vim.keymap.set("n", "<C-k>", ":TmuxNavigateUp<CR>")
 vim.keymap.set("n", "<C-l>", ":TmuxNavigateRight<CR>")
 
-vim.keymap.set("n", "<leader>tt", ":terminal<CR>")
+vim.keymap.set("n", "<leader>tt", ":term")
+vim.keymap.set("n", "<leader>cc", ":!")
 
 vim.keymap.set("n", "<leader>r", "<C-r>");
