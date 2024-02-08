@@ -17,7 +17,7 @@ require('catppuccin').setup({
     },
     custom_highlights = {
         Comment = {
-            fg = "#999999"
+            fg = "#9999AA"
         },
         String = {
             fg = "#7FAA66"
@@ -26,7 +26,7 @@ require('catppuccin').setup({
             fg = "#C999BB"
         },
         Function = {
-            fg = "#0099AA"
+            fg = "#CCCCCC"
         },
     },
     -- hello
